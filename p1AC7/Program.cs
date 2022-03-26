@@ -16,7 +16,8 @@ for(int i = 0; i < mangas; i++)
 }
 
 
-
+// moficar el programa para que lleve el control de las mangas que va ganando por fase
+// comentar los cambios que deben hacer 
 
 
 
